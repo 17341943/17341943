@@ -1,0 +1,83 @@
+
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<dataList>
+	<categoryData>
+
+		<category title="2010 S/S" command="2010 S/S"/>
+
+	</categoryData>
+
+
+	<contentData>
+
+		<content>
+			<small>imgs/si/01.jpg</small>
+			<large>imgs/si/01.jpg</large>
+			<text>01.swf</text>
+		</content>		
+
+		<content>
+			<small>imgs/si/02.jpg</small>
+			<large>imgs/si/02.jpg</large>
+			<text>01.swf</text>
+		</content>		
+
+		<content>
+			<small>imgs/si/03.jpg</small>
+			<large>imgs/si/03.jpg</large>
+			<text>01.swf</text>
+		</content>		
+
+
+		<content>
+			<small>imgs/si/04.jpg</small>
+			<large>imgs/si/04.jpg</large>
+			<text>01.swf</text>
+		</content>		
+
+		<content>
+			<small>imgs/si/05.jpg</small>
+			<large>imgs/si/05.jpg</large>
+			<text>01.swf</text>
+		</content>
+
+		<content>
+			<small>imgs/si/06.jpg</small>
+			<large>imgs/si/06.jpg</large>
+			<text>01.swf</text>
+		</content>
+
+		<content>
+			<small>imgs/si/07.jpg</small>
+			<large>imgs/si/07.jpg</large>
+			<text>01.swf</text>
+		</content>
+
+		<content>
+			<small>imgs/si/08.jpg</small>
+			<large>imgs/si/08.jpg</large>
+			<text>01.swf</text>
+		</content>
+		<content>
+			<small>imgs/si/09.jpg</small>
+			<large>imgs/si/09.jpg</large>
+			<text>01.swf</text>
+		</content>
+
+		<content>
+			<small>imgs/si/10.jpg</small>
+			<large>imgs/si/10.jpg</large>
+			<text>01.swf</text>
+		</content>
+
+		<content>
+			<small>imgs/si/11.jpg</small>
+			<large>imgs/si/11.jpg</large>
+			<text>01.swf</text>
+		</content>
+		
+
+	</contentData>
+	
+</dataList>
